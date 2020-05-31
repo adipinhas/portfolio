@@ -5,7 +5,7 @@ var projects = [
                     url:'https://adipinhas.github.io/colors-go/#/',
                     tech:'React.js, css',
                     isPhoneImg:false,
-                    img:'../img/Colorss.png',
+                    img:'./img/Colorss.png',
                     des:'Build your own palette of colors and use it easy',
                     codeUrl:'https://github.com/adipinhas/colors-go'
                 },
@@ -14,7 +14,7 @@ var projects = [
                     url:'https://i-posts.firebaseapp.com/#/',
                     tech:'React.js & hooks, Redux, Firebase, css',
                     isPhoneImg:true,
-                    img:'../img/Spot-it1.jpg',
+                    img:'./img/Spot-it1.jpg',
                     des:'Play with your friend the popular cadrs game',
                     codeUrl:'https://i-posts.web.app/#/'
                 }
