@@ -5,7 +5,7 @@ var projects = [
                     url:'https://adipinhas.github.io/colors-go/#/',
                     tech:'React.js, css',
                     isPhoneImg:false,
-                    img:'../img/Colors.png',
+                    img:'../img/Colorss.png',
                     des:'Build your own palette of colors and use it easy',
                     codeUrl:'https://github.com/adipinhas/colors-go'
                 },
