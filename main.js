@@ -14,7 +14,7 @@ var projects = [
                     url:'https://i-posts.firebaseapp.com/#/',
                     tech:'React.js & hooks, Redux, Firebase, css',
                     isPhoneImg:true,
-                    img:'./img/spot-it1.jpg',
+                    img:'./img/spot-it1.png',
                     des:'Play with your friend the popular cadrs game',
                     codeUrl:'https://i-posts.web.app/#/'
                 }
