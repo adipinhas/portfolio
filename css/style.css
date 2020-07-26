@@ -202,10 +202,24 @@ h1{
     .link{
         padding: 3px;
     }
+    .project-link{
+        background-color: unset;
+        width:45vw;
+    }
+    .project-img-phone{
+        width: 80px;
+        height: 110px;
+    }
+
+    .project-img-desktop{
+        width: 115px;
+        height: 70px;
+    }
     .project{
+        flex-direction: row;
         max-width: unset;
-        width: 200px;
-        height: 300px;
+        width: 100%;
+        height: 185px;
     }
    
 }

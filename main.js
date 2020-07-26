@@ -51,11 +51,13 @@ function renderProjects (projects) {
                         ${projects[i].des}
                     </div>
                     <div>
+                    <div>
                         Technologies: ${projects[i].tech}
                     </div>
                     <div class="links">
                         <a target="_blank" class="link"  href="${projects[i].url}" >View Project</a>
                         <a target="_blank" class="link" href="${projects[i].codeUrl}">View code</a>
+                    </div>
                     </div>
             </div>
        `
