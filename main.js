@@ -24,7 +24,7 @@ var projects = [
                     tech:'Vue.js, Vuex scss, node.js,',
                     isPhoneImg:false,
                     img:'https://i.ibb.co/r4Jp3kN/2020-06-01.png',
-                    des:'Plan',
+                    des:'As a team, plan any project you want ',
                     codeUrl:'https://github.com/Grape24/Final-Proj-MakeIt'
                 },
                 {
@@ -33,7 +33,7 @@ var projects = [
                     tech:'React.js,css',
                     isPhoneImg:true,
                     img:'https://i.ibb.co/TP7r35G/weather123.jpg',
-                    des:'weather app',
+                    des:'Check what the weather is like everywhere',
                     codeUrl:''
 
                 }
