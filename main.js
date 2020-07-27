@@ -1,5 +1,14 @@
 
 var projects = [
+    {
+        name:'Spot-It',
+        url:'https://i-posts.firebaseapp.com/#/',
+        tech:'React.js & hooks, Redux, Firebase, css',
+        isPhoneImg:true,
+        img:'./img/spot-it1.png',
+        des:'Play with your friend the popular cadrs game',
+        codeUrl:''
+    },
                 {
                     name:'Colors-Go',
                     url:'https://adipinhas.github.io/colors-go/#/',
@@ -8,15 +17,6 @@ var projects = [
                     img:'./img/Colorss.png',
                     des:'Build your own palette of colors and use it easy',
                     codeUrl:'https://github.com/adipinhas/colors-go'
-                },
-                {
-                    name:'Spot-It',
-                    url:'https://i-posts.firebaseapp.com/#/',
-                    tech:'React.js & hooks, Redux, Firebase, css',
-                    isPhoneImg:true,
-                    img:'./img/spot-it1.png',
-                    des:'Play with your friend the popular cadrs game',
-                    codeUrl:''
                 },
                 {
                     name:'Make-It',
@@ -50,8 +50,8 @@ function renderProjects (projects) {
                         <img ${projects[i].isPhoneImg && `class="project-img-phone"` } ${!projects[i].isPhoneImg && 'class="project-img-desktop"'} src="${projects[i].img}" alt=""> 
                         ${projects[i].des}
                     </div>
-                    <div>
-                    <div>
+                    <div class="details-view">
+                    <div >
                         Technologies: ${projects[i].tech}
                     </div>
                     <div class="links">
