@@ -6,7 +6,7 @@ var projects = [
         tech:'React.js & hooks, Redux, Firebase, css',
         isPhoneImg:true,
         img:'./img/spot-it1.png',
-        des:'Play with your friend the popular cadrs game',
+        des:'Play with your friend the popular cadrs game, designed for mobile',
         codeUrl:''
     },
                 {
@@ -15,7 +15,7 @@ var projects = [
                     tech:'React.js, css',
                     isPhoneImg:false,
                     img:'./img/Colorss.png',
-                    des:'Build your own palette of colors and use it easy',
+                    des:'Build your own palette of colors and use it easy, designed for desktop',
                     codeUrl:'https://github.com/adipinhas/colors-go'
                 },
                 {
@@ -33,7 +33,7 @@ var projects = [
                     tech:'React.js,css',
                     isPhoneImg:true,
                     img:'https://i.ibb.co/TP7r35G/weather123.jpg',
-                    des:'Check what the weather is like everywhere',
+                    des:'Check what the weather is like everywhere, designed for mobile',
                     codeUrl:''
 
                 }
